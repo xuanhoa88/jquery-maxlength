@@ -14,5 +14,5 @@
   "scripts": {
     "test": "grunt test"
   },
-  "homepage": "https://github.com/xuanhoa88/jquery-input-formats"
+  "homepage": "https://github.com/xuanhoa88/jquery-maxlength"
 }
