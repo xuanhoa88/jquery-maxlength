@@ -63,9 +63,9 @@
                             }, this), 1);
                         }
                     });
-                if (options.counterContainer) {
+                if (options.counterContainer instanceof $) {
                     options.counterContainer.append(data.counter);
-                } else {
+                } else if(options.counterContainer) {
                     data.field.after(data.counter);
                 }
                 data.updateCounter();
