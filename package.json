@@ -1,6 +1,6 @@
 {
   "name": "llama-jquery-maxlength",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": "XuaNguyen <xuan.0211@gmail.com>",
   "main": "./src/jquery.maxlength.js",
   "description": "A lightweight jQuery character counter and countdown for inputs and textareas.",
