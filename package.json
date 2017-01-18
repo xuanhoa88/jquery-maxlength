@@ -1,5 +1,5 @@
 {
-  "name": "@llama/jquery-maxlength",
+  "name": "llama-jquery-maxlength",
   "version": "0.1.0",
   "author": "XuaNguyen <xuan.0211@gmail.com>",
   "main": "./src/jquery.maxlength.js",
